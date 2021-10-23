@@ -1,4 +1,4 @@
-### Opa, sou o Raffael! Estudante de SI
+### Olá, sou o Raffael! Estudante de SI
 
 <div>
 <a href="https://github.com/RaFF43L">
