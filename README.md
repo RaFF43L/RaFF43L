@@ -1,8 +1,4 @@
-### Opa, sou o Raffael!
-
-
-- 🌱 Estudando SpringBoot
-- 📫 Contate-me no email: ribeiro_pimentel@discente.ufg.br
+### Opa, sou o Raffael! Estudante de SI
 
 <div>
 <a href="https://github.com/RaFF43L">
