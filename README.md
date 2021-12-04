@@ -12,7 +12,7 @@
   <img align="center" alt="RaFF43L-Java" height="30" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="RaFF43L-React" height="30" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   <img align="center" alt="RaFF43L-TypeScript" height="30" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align-"center" alt"RaFF43L-PHP" height="30" width"70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="RaFF43L-PHP" height="30" width"70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
 
 
 
