@@ -1,6 +1,7 @@
-### Olá, sou o Raffael! Estudante de SI
+### Hi, my name is Raffael
 
-<div>
+
+ <div>
 <a href="https://github.com/RaFF43L">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaFF43L&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaFF43L&layout=compact&langs_count=7&theme=github_dark"/>
