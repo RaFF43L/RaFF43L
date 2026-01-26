@@ -3,8 +3,6 @@
 Backend sênior (Node.js). Penso cloud-first na AWS: arquitetura, entrega e operação.
 
 ---
-
-### Agora
 - **[LeetCode](link)** — algoritmo + estrutura de dados
 - **[System Design](link)** — estudos e desenhos de produção
 
