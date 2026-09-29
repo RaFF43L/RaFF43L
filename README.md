@@ -1,6 +1,11 @@
 ### Raffael Pimentel Ribeiro
+**Senior Backend & AI Systems Engineer**
 
-Backend sênior (Node.js). Penso cloud-first na AWS: arquitetura, entrega e operação.
+Engenharia de sistemas distribuídos e IA aplicada à produção. Atuo com Node.js & python com foco *cloud-first* na AWS: da arquitetura orientada a eventos à operação de pipelines inteligentes.
 
-- LinkedIn: [www.linkedin.com/in/raffael-pimentel-backend-senior](https://www.linkedin.com/in/raffael-pimentel-backend-senior)
-- Email: <rafaelribeirosousa013@gmail.com>
+- **Backend & Distribuídos:** Arquitetura orientada a eventos, padrões de resiliência (Circuit Breaker, Bulkhead, Saga), consistência de dados e alta escala.
+- **Engenharia de IA:** Arquiteturas RAG, Semantic Caching, LLM Routing e fluxos determinísticos de agentes (State Machines).
+- **Core Cloud:** AWS, infraestrutura serverless, processamento assíncrono e observabilidade estruturada.
+
+---
+[LinkedIn](https://www.linkedin.com/in/raffael-pimentel-backend-senior) · [rafaelribeirosousa013@gmail.com](mailto:rafaelribeirosousa013@gmail.com)
